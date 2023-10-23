@@ -2,8 +2,6 @@
 ## Overview
 This repository features a Python project for a simple yet comprehensive banking system. It enables users to create bank accounts, perform secure fund deposits and withdrawals, access real-time balance information, and view their transaction history. The code is designed to be user-friendly, offering data validation to ensure precise transactions. Whether you're learning Python or need a basic banking system for personal or educational use, this project serves as a valuable reference.
 
-*Note: I sought the assistance of artificial intelligence when i felt stuck, but I can confidently say that I understand every part of this program.*
-
 ## Key Features
 - **Account Management:** Create and manage bank accounts securely.
 - **Fund Transactions:** Perform secure fund deposits and withdrawals.
