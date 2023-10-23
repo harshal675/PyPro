@@ -25,5 +25,4 @@ The Banking System project provides a platform for banks to streamline operation
 3. Incorporate the logic for account management.
 4. Test the system.
 
-## Video Tutorial
-Watch our video tutorial on how to use this banking system: [link to video tutorial].
+
