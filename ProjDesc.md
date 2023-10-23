@@ -20,6 +20,9 @@ The Banking System project provides a platform for banks to streamline operation
 - Familiarity with Python classes.
 
 ## Project Overview
-
+1. Define the required classes.
+2. Implement the user interface.
+3. Incorporate the logic for account management.
+4. Test the system.
 
 
