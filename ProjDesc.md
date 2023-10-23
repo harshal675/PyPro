@@ -1,28 +1,31 @@
-# Banking System
-## Introduction
-This repository features a Python project for a simple yet comprehensive banking system. It enables users to create bank accounts, perform secure fund deposits and withdrawals, obtain real-time balance information, and access their transaction history. The code is designed to be user-friendly, offering data validation to ensure precise transactions. Whether you're learning Python or need a basic banking system for personal or educational use, this project serves as a valuable reference.
+# Banking System Project
+## Overview
+This repository features a Python project for a simple yet comprehensive banking system. It enables users to create bank accounts, perform secure fund deposits and withdrawals, access real-time balance information, and view their transaction history. The code is designed to be user-friendly, offering data validation to ensure precise transactions. Whether you're learning Python or need a basic banking system for personal or educational use, this project serves as a valuable reference.
+
+*Note: I sought the assistance of artificial intelligence when i felt stuck, but I can confidently say that I understand every part of this program.*
 
 ## Key Features
-- Account creation and management.
-- Secure fund deposits and withdrawals.
-- Real-time balance checking.
-- Transaction history for account activity tracking.
-- Easily understandable Python code.
-- Data validation for error prevention and accurate transactions.
+- **Account Management:** Create and manage bank accounts securely.
+- **Fund Transactions:** Perform secure fund deposits and withdrawals.
+- **Real-time Balance Checking:** Obtain real-time balance information.
+- **Transaction History:** View and track transaction history.
+- **User-friendly Code:** Easily understandable Python code.
+- **Data Validation:** Prevent errors and ensure accurate transactions.
 
 ## Purpose
 The Banking System project provides a platform for banks to streamline operations and reduce employee workloads. It empowers customers to access their accounts and conduct transactions remotely, reducing the need for physical bank visits. Additionally, the system ensures the security of transactions, safeguarding customers' personal and financial data.
 
-## Project Prerequisites
+## Prerequisites
+To work on this project, you'll need a basic understanding of the following concepts and tools:
 - Python's `print()` function.
 - Python's input and output functions.
-- Understanding of Python functions.
-- Familiarity with Python classes.
+- Python functions.
+- Python classes.
 
 ## Project Overview
-1. Define the required classes.
-2. Implement the user interface.
-3. Incorporate the logic for account management.
-4. Test the system.
+1. **Define Classes:** Create the necessary classes for the project.
+2. **Implement User Interface:** Develop a user-friendly interface for account management.
+3. **Incorporate Logic:** Add logic for account creation, transaction handling, and balance checks.
+4. **Test the System:** Thoroughly test the system to ensure functionality and reliability.
 
 
