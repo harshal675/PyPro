@@ -26,4 +26,8 @@ To work on this project, you'll need a basic understanding of the following conc
 3. **Incorporate Logic:** Add logic for account creation, transaction handling, and balance checks.
 4. **Test the System:** Thoroughly test the system to ensure functionality and reliability.
 
+## Video Presentation
+The link to the video presetation of my Banking System project is given below:
+https://drive.google.com/file/d/1xk1VwcGnlqyBNR9HstP7LRwRPuS7QHNI/view?usp=sharing
+
 
